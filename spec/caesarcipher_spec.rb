@@ -1,5 +1,5 @@
-require 'caesarcipher.rb'
+require './lib/caesarcipher'
 
-describe "#caesarcipher" do
+describe "#caesar_cipher" do
 
 end
